@@ -1,0 +1,12 @@
+F:\projects\StudentScore\StudentScore\bin\Debug\StudentScore.exe.config
+F:\projects\StudentScore\StudentScore\bin\Debug\StudentScore.exe
+F:\projects\StudentScore\StudentScore\bin\Debug\StudentScore.pdb
+F:\projects\StudentScore\StudentScore\bin\Debug\StudentScore.xml
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.vbprojAssemblyReference.cache
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.Form1.resources
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.Resources.resources
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.vbproj.GenerateResource.cache
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.vbproj.CoreCompileInputs.cache
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.exe
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.xml
+F:\projects\StudentScore\StudentScore\obj\Debug\StudentScore.pdb
